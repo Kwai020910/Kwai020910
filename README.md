@@ -1,4 +1,4 @@
-Hi, I'm Kwai! <br/><a href="https://github.com/Kwai020910"></a>, <a href="https://www.linkedin.com/in/kwaihopkins/">Cloud Professional</a>
+Hi, I'm Kwai! <br/><a href="https://github.com/Kwai020910"></a> <a href="https://www.linkedin.com/in/kwaihopkins/">Cloud Professional</a>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
