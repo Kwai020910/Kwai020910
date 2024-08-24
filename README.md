@@ -11,7 +11,7 @@ Hi, I'm Kwai! <br/><a href="https://github.com/Kwai020910"></a> <a href="https:/
 [<img align="left" alt="CloudTechnerd | YouTube" width="22px" src="[https://www.youtube.com/@CloudTechNerd)" />][youtube]
 [<img align="left" alt="kwaihopkins| LinkedIn" width="22px" src="https://www.linkedin.com/in/kwaihopkins/" />][linkedin]
 
-[youtube]:  https://www.youtube.com/@CloudTechNerd)
+[youtube]:  https://www.youtube.com/@CloudTechNerd
 [linkedin]: https://linkedin.com/in/kwaihopkins
 
 <!--
